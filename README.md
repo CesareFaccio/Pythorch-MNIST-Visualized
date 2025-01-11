@@ -12,4 +12,4 @@ visualize.py is then used to "look into the cnn". The model is loaded back in us
 2_accviz : results from the convolution of the filters of the second layer and the outputs of the first layer image (saved in size that is easier to add to documents)
 2viz : results from the convolution of the filters of the second layer and the original image (saved in size that is easier to add to documents)
 
-I have also added a PDF where I walk through what is happening in the network with real examples of the results from the convolutions with filters (kernels).
+I have also added a PDF where I walk through what is happening in the network with real examples of the results from the convolutions with filters (kernels). Note that every time the network is trained the filters will be slighty different or even very different so your results may vary from what is included in the PDF.
